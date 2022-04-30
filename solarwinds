@@ -1,0 +1,53 @@
+Tiistai, 8. joulukuuta 2020
+FireEye
+
+FireEye, amerikkalainen pörssilistattu ja arvostettu suuri tietoturvayhtiö, kertoo https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html joutuneensa kyberhyökkäyksen kohteeksi. Uutinen on poikkeuksellinen, koska hyökkäyksestä kerrotaan julkisesti ja se kohdistuu tietoturvayhtiöön jonka tehtävänä on suojata asiakkaitaan tietoturvaongelmilta.
+
+Hyökkääjää kuvataan erittäin kehittyneeksi ja epäillään valtiolliseksi toimijaksi. Hyökkäyksen todetaan olevan erilainen kuin tähän mennessä nähdyt hyökkäykset, käyttää uusia tekniikoita ja välttää havaitsemista ja väistää forensiikkaa. 
+
+Hyökkääjä sai pääsyn FireEyen käyttämiin tietoturvatyökaluihin joita käytetään tietoturvaongelmien löytämiseen asiakkailla. Näin hyökkääjä voisi hyödyntää tai jakaa eteenpäin FireEyen käyttämiä työkaluja. Tämä on oletettavasti yksi merkittävä tekijä miksi tiedot hyökkäyksestä päätettiin julkaista. Tiedotteen yhteydessä FireEye julkaisi myös vastatoimia.
+
+Tiedotteessa mainitaan yhteistyökumppanit, joista nimetään vain Microsoft ja FBI yhteistyö. 
+
+Tässä vaiheessa hyökkäyksen selvityksenä on täytynyt olla käynnissä jo pidempään, koska tiedetään miten hyökkääjä toimii, mihin tietoihin hyökkääjä on päässyt ja tämän jälkeen on myös kehitetty menetelmiä vuotaneiden työkalujen vaikutusten minimoimiseksi.
+
+FireEye oli ensimmäinen taho joka jakoi julkisesti tietoa hyökkäyksestä. Joko muut eivät ole havainneet hyökkäyksiä ollenkaan tai päättivät olla julkaisematta tietoja tässä vaiheessa.
+
+Keskiviikko, 9. joulukuuta 2020
+Solarwinds 
+
+Solarwinds vaihtaa toimitusjohtajaa. Edellinen toimitusjohtaja ollut yrityksessä 10 vuotta, mutta syitä vaihdokseen ei kerrota julkisuudessa. Uusi toimitusjohtaja tulee tietoturvayhtiöstä (Pulse Secure). 
+
+(https://investors.solarwinds.com/news/news-details/2020/SolarWinds-Appoints-Sudhakar-Ramakrishna-as-New-President-and-Chief-Executive-Officer/default.aspx).
+
+Sunnuntai, 13. joulukuuta 2020
+Solarwinds
+
+Kiire. Vielä samalla viikolla FireEye kertoo merkittäviä lisätietoja. Kampanja on laajamittainen, maailmanlaajuinen, joka hyödyntää ohjelmiston toimitusketjun haavoittuvuuksia. 
+
+Hyökkääjä on käyttänyt Solarwinds Orion -ohjelmistoa päästäkseen asiakkaiden koneisiin. 
+
+Useita yksityisen ja julkisen puolen toimijoita uhreina. FireEye on ilmoittanut haittaohjelmasta kaikille tiedossa oleville uhreille.  
+
+Hyökkäys käynnissä vähintään keväästä 2020 lähtien eli yli puoli vuotta ennen löytämistä ja julkistamista.
+
+FireEye kutsuu hyökkääjää termillä UNC2452 (unclassified actor 2452) ja haittaohjelmaa nimellä SUNBURST.
+
+Ongelman laajuus alkaa selviämään
+
+(https://www.fireeye.com/blog/products-and-services/2020/12/global-intrusion-campaign-leverages-software-supply-chain-compromise.html).
+
+Maanantai, 14.12.2020
+
+https://investors.solarwinds.com/news/news-details/2020/SolarWinds-Releases-Updates-to-Address-Vulnerability-Related-to-SUPERNOVA-Malware/default.aspx
+
+SolarWinds asiakaslista: 
+https://web.archive.org/web/20201213234819/https:/www.solarwinds.com/company/customers
+
+Links
+- https://www.fireeye.com/blog/products-and-services/2021/02/light-in-the-dark-hunting-for-sunburst.html
+https://www.fireeye.com/blog/products-and-services/2021/06/new-future-for-fireeye-and-mandiant-accelerating-opportunities.html
+
+https://www.fireeye.com/blog/products-and-services/2021/06/new-future-for-fireeye-and-mandiant-accelerating-opportunities.html
+
+https://www.fireeye.com/company/press-releases/2021/fireeye-announces-sale-of-fireeye-products-business-to-symphony-technology-group.html
